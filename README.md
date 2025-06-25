@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm M Riza Buccharelli (💻💖☕)
 
 
-🎯 A multi-talented, self-taught software engineer, open-source contributor, AI enthusiast, cybersecurity tinkerer, and tech enthusiast from Indonesia. Also a part-time singer/songwriter & music producer 🎵
+🎯 A multi-talented, self-taught software engineer, open-source contributor, AI enthusiast, cybersecurity tinkerer, and tech enthusiast from Indonesia. 
 
 ---
 
