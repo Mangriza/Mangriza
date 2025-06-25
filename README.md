@@ -6,31 +6,13 @@
 </a>
 <!-- markdownlint-enable MD033 -->
 
-![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;AI+Engineer;Technopreneur)
 
 A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, AI engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
 
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@mangriza-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
-- 💝 Author of multiple open source projects (~50 to date).
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/mangriza) or [send me some love](https://github.com/sponsors/mangriza).
-- 🎯 Wasting my time to save other people's time.
-- 💡 [Learn more about me](https://bio.link/mangriza).
-
-<!--
-- 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
-- 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
--->
 
 ## 🧑‍💻 Talk is Cheap, Here's How I Code 👇
 
-<!-- markdownlint-disable MD033 -->
-<a href="https://gitroll.io/profile/utE73x4NTn3S4a883PO02c93s5Db2" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/utE73x4NTn3S4a883PO02c93s5Db2?theme=dark" 
-             width="600px"
-             alt="GitRoll Profile Badge"/>
-</a>
-<!-- markdownlint-enable MD033 -->
 
 ## 🔧 Technologies
 
