@@ -16,7 +16,7 @@
 
 ## 🧠 Skills & Tools
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,nodejs,py,mysql,mongodb,docker,kubernetes,git,figma,vscode,bash,nginx,cloudflare,wordpress,wordpress,sass,md,jquery&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,nodejs,py,mysql,mongodb,docker,kubernetes,git,figma,vscode,cloudflare,wordpress,wordpress,&theme=light)
 
 ---
 
