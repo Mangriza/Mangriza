@@ -1,70 +1,85 @@
-# 👋 M Riza Buccharelli (💻💖☕) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/mangriza) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/mangriza)
+# 👋 Hey there! I'm M Riza Buccharelli (💻💖☕)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/mangriza)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/mangriza)
+![Profile Views](https://komarev.com/ghpvc/?username=mangriza&label=Profile%20views&color=0e75b6&style=flat)
 
+---
 
-A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, AI engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
+🎯 A multi-talented, self-taught software engineer, open-source contributor, AI enthusiast, cybersecurity tinkerer, and tech community builder from Indonesia. Also a part-time singer/songwriter & music producer 🎵
 
+---
 
+## 🔥 GitHub Highlights
 
-## 🧑‍💻 Talk is Cheap, Here's How I Code 👇
+- 👨‍💻 Total Public Repositories: **![Repo Count](https://img.shields.io/github/repos?username=mangriza&style=flat-square)**
+- 🌱 Currently working on: `AI Tools`, `Web3`, and `Educational Platforms`
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/mriza) or [Twitter](https://twitter.com/mangriza)
+- 🛠 Maintainer of `magic-commit`, `dev.to` writer, and open-source advocate
 
+---
 
-## 🔧 Technologies
+## 🧠 Skills & Tools
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,nodejs,py,mysql,mongodb,docker,kubernetes,git,figma,vscode,bash,nginx,cloudflare,wordpress,wordpress,sass,md,jquery&theme=light)
 
+---
 
-
-<!-- markdownlint-disable MD033 -->
-
-<details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [My Experience as Maintainer for Hacktoberfest 2021](https://dev.to/mangriza/my-experience-as-maintainer-for-hacktoberfest-2021-4opm)
 - [7 Helpful GitHub Repositories for Developers](https://dev.to/mangriza/7-helpful-github-repositories-for-developers-2kkm)
 - [GitHub Codespaces](https://dev.to/mangriza/github-codespaces-1i8k)
 - [Animate.css v4 Update!](https://dev.to/mangriza/animate-css-v4-update-18m8)
-- [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/mangriza/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
+- [CLI Covid-19 Tracker](https://dev.to/mangriza/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
 <!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/mangriza/magic-commit/issues/26#issuecomment-2999459428) in [mangriza/magic-commit](https://github.com/mangriza/magic-commit)
-2. 💪 Opened PR [#27](https://github.com/wgtechlabs/unthread-telegram-bot/pull/27) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🗣 Commented on [#234](https://github.com/briehq/brie-extension/pull/234#issuecomment-2994679158) in [briehq/brie-extension](https://github.com/briehq/brie-extension)
-4. 💪 Opened PR [#234](https://github.com/briehq/brie-extension/pull/234) in [briehq/brie-extension](https://github.com/briehq/brie-extension)
-5. 🚀 Published release [v1.0.0-beta.4](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.4) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=mangriza)
-
-</details>
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![M Riza Buccharelli Github Stats](https://readme-stats.mangriza.com/api?username=mangriza&show_icons=true&count_private=true)](https://github.com/mangriza/github-readme-stats) [![Top Language](https://readme-stats.mangriza.com/api/top-langs?username=mangriza&layout=compact)](https://github.com/mangriza/github-readme-stats)
-
-</details>
-
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-💻💖☕ by [M Riza Buccharelli]
+## 🚀 GitHub Stats
 
-<!-- 
-[personal website]: https://mangriza.com
-[Linkedin]: https://linkedin.com/mriza
-[github]: https://github.com/mangriza
+<p align="center">
+  <img height="150em" src="https://readme-stats.mangriza.com/api?username=mangriza&show_icons=true&count_private=true&hide=issues&theme=radical"/>
+  <img height="150em" src="https://readme-stats.mangriza.com/api/top-langs/?username=mangriza&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mangriza&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![M Riza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mangriza&theme=github-compact)](https://github.com/mangriza)
+
+---
+
+## ⚡ WakaTime Stats (Optional)
+
+<!-- Uncomment this if you connect WakaTime -->
+<!--
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mangriza)](https://wakatime.com/@mangriza)
 -->
+
+---
+
+## 📝 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#26](https://github.com/mangriza/magic-commit/issues/26#issuecomment-2999459428)
+2. 💪 Opened PR [#27](https://github.com/wgtechlabs/unthread-telegram-bot/pull/27)
+3. 🗣 Commented on [#234](https://github.com/briehq/brie-extension/pull/234#issuecomment-2994679158)
+4. 💪 Opened PR [#234](https://github.com/briehq/brie-extension/pull/234)
+5. 🚀 Published [v1.0.0-beta.4](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.4)
+<!--END_SECTION:activity-->
+
+---
+
+💻💖☕ Made with passion by [@MangRiza](https://github.com/mangriza)
+
