@@ -1,10 +1,5 @@
 # 👋 Hey there! I'm M Riza Buccharelli (💻💖☕)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/mangriza)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/mangriza)
-![Profile Views](https://komarev.com/ghpvc/?username=mangriza&label=Profile%20views&color=0e75b6&style=flat)
-
----
 
 🎯 A multi-talented, self-taught software engineer, open-source contributor, AI enthusiast, cybersecurity tinkerer, and tech community builder from Indonesia. Also a part-time singer/songwriter & music producer 🎵
 
