@@ -8,8 +8,8 @@
 ## 🔥 GitHub Highlights
 
 - 👨‍💻 Total Public Repositories: **![Repo Count](https://img.shields.io/github/repos?username=mangriza&style=flat-square)**
-- 🌱 Currently working on: `AI Tools`, `Web3`, and `Educational Platforms`
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/mriza) or [Twitter](https://twitter.com/mangriza)
+- 🌱 Currently working on: `AI Tools`, `Web Developer`, and `Mobile Developer`
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/m-riza-buccharelli-861231256/) or [Twitter](https://twitter.com/mangriza)
 - 🛠 Maintainer of `magic-commit`, `dev.to` writer, and open-source advocate
 
 ---
@@ -56,23 +56,6 @@
 ---
 
 ## ⚡ WakaTime Stats (Optional)
-
-<!-- Uncomment this if you connect WakaTime -->
-<!--
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mangriza)](https://wakatime.com/@mangriza)
--->
-
----
-
-## 📝 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/mangriza/magic-commit/issues/26#issuecomment-2999459428)
-2. 💪 Opened PR [#27](https://github.com/wgtechlabs/unthread-telegram-bot/pull/27)
-3. 🗣 Commented on [#234](https://github.com/briehq/brie-extension/pull/234#issuecomment-2994679158)
-4. 💪 Opened PR [#234](https://github.com/briehq/brie-extension/pull/234)
-5. 🚀 Published [v1.0.0-beta.4](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.4)
-<!--END_SECTION:activity-->
 
 ---
 
