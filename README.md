@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm M Riza Buccharelli (💻☕)
+# 👋 Hey there! I'm Mangriza (💻☕)
 
 
 🎯 A multi-talented, self-taught software engineer, open-source contributor, AI enthusiast, cybersecurity tinkerer, and tech enthusiast from Indonesia. 
