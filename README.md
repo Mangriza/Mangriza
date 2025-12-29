@@ -30,13 +30,6 @@
 - [CLI Covid-19 Tracker](https://dev.to/mangriza/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-## 📈 GitHub Activity Graph
-
-[![M Riza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mangriza&theme=github-compact)](https://github.com/mangriza)
-
----
 
 ## ⚡ WakaTime Stats (Optional)
 
