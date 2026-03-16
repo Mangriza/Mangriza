@@ -13,8 +13,8 @@ https://porto-mrizabuccharelli.vercel.app/
 ## Technical Skills
 
 * **Languages:** JavaScript, TypeScript, PHP, Python
-* **Frontend:** React, Vue, HTML, CSS
-* **Backend:** Node.js, MySQL, MongoDB
+* **Frontend:** React, Next Js Vue, HTML, CSS
+* **Backend:** Node.js,Express js, MySQL, MongoDB
 * **Infrastructure:** Docker, Kubernetes, Cloudflare
 * **Design & Tools:** Figma, VS Code, Git, WordPress
 
